@@ -1,0 +1,28 @@
+
+body {
+    background: rgb(175, 84, 84);
+    font: normal 15pt icon;
+}
+header {
+text-align: center ;
+color: white
+ 
+}
+section {
+    background: burlywood;
+    border-radius: 12px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px black;
+}
+
+div {
+    text-align: center;
+    padding: 5px;
+}
+footer {
+ color:burlywood;
+ text-align: center;
+ font-style: italic;
+}
